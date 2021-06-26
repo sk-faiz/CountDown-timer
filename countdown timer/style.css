@@ -28,7 +28,7 @@ body {
     margin-bottom: 0px;
     font-weight: normal;
     font-family: 'Lemonada', cursive;
-    color: #ff577f;
+    color: #FF6701;
 }
 
 h1:hover {
@@ -61,7 +61,7 @@ h1:hover {
 .countdown-el {
     text-align: center;
     margin-top: 50px;
-    color: #f05454;
+    color: #E8E46E;
     margin-bottom: 100px;
 }
 
