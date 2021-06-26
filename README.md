@@ -2,4 +2,5 @@
 
 live link => https://countdowntimer-by-codemon.netlify.app/
 
-![image](https://user-images.githubusercontent.com/77228339/123295566-75b86800-d533-11eb-8423-42685e9c98cb.png)
+Preview =>
+![image](https://user-images.githubusercontent.com/77228339/123504453-0e0b3580-d677-11eb-86a7-0195444ba141.png)
