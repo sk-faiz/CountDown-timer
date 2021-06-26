@@ -69,8 +69,3 @@ h1:hover {
     font-size: 1.3rem;
 }
 
-@keyframes slidebg {
-    to {
-      background-position:20vw;
-    }
-  }
